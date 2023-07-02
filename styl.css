@@ -1,0 +1,43 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+color: rgb(19, 240, 240);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+a{
+text-decoration: line-through;
+font-size: 30px;
+}
+
+a:hover{
+color: black;
+transition: all 1s ease;
+}
+
+nav{
+background: bisque;
+padding: 30px;
+text-align: center;
+}
+div{
+    width: 30%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+body{
+background-color: grey;
+}
+
+img{
+width: 20%;
+float: left;
+}
+
+h1{
+    text-align: center;
+}
+
